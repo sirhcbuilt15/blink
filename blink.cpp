@@ -10,8 +10,7 @@
 
 /*
 
-	aquí va el código
-confirmando cambios
-agregando mi mail y use
-led rojo funcionando
+	aquí va el codigo
+	Listo para trabajar 
+	
 */
